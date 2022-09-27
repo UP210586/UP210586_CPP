@@ -1,4 +1,4 @@
-/* Unidad 2. Uso del if anidado
+/* Unidad 2.
    Autor: Gabriel Hernández Rivera
    Fecha: 27/09/2022
    Descripción: Definir la etapa de la persona
