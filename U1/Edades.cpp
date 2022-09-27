@@ -1,3 +1,14 @@
+/* Unidad 2. Uso del if anidado
+   Autor: Gabriel Hernández Rivera
+   Fecha: 27/09/2022
+   Descripción: Definir la etapa de la persona
+         [1..150] Validación
+         [1...30] Primera edad
+         [31..60] Segunda Edad
+         [61..90] Tercera Edad
+         [91....] Horas Extra
+*/
+
 #include <iostream>
 #include <stdio.h>
 
@@ -5,24 +16,33 @@ using namespace std;
 
 int main()
 {
-    int e;
-   cout <<"Dame tu edad";
-   cin >> e;
+   int edad;
+   cout << "Dame tu edad ";
+   cin >> edad;
 
-    if (1<=e<=150)
-    {
-        if (1<=e<=30)
-        {
-            cout << "Primera Edad";
-            /*else(61<=e<=90)
-            {
-
-            }
-*/
-            
-            
-        }
-        
-    }
-    
+   if (edad >= 1 && edad <= 150)
+   {
+      if (edad <= 30)
+      {
+         cout << "Primera Edad" << endl;
+      }
+      else if (edad >= 31 && edad <= 60)
+      {
+         cout << "Segunda Edad" << endl;
+      }
+      else if (edad >= 61 && edad <= 90)
+      {
+         cout << "Tercera Edad" << endl;
+      }
+      else
+      {
+         cout << "Horas Extra" << endl;
+      }
+   }
+   else
+   {
+      cout << "El rango es invalido" << endl;
+   }
+   getchar();
+   return 0;
 }
