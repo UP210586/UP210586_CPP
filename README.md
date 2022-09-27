@@ -1,4 +1,5 @@
 # UP210586_CPP
-Hola Mundo Cruel 
-Gabriel Hernández Rivera
+## Gabriel Hernández Rivera
+
+![Foto de Checo Perez](/U1/Imagenes/Checo.jpg)
  
