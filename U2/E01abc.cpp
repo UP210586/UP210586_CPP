@@ -1,3 +1,11 @@
+/* Unidad 2.
+   Autor: Gabriel Hernández Rivera
+   Fecha: 28/09/2022
+   Descripción: Escribir el abecedario al revez.
+                Escribir el abecedario en minusculas.
+                Escribir el abecedario en mayusculas.
+                Escribir los números del 10-1 en orden descendente.
+*/
 #include <iostream>
 using namespace std;
 
