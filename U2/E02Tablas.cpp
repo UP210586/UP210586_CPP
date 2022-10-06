@@ -20,7 +20,4 @@ int main (){
         cout << n << " x " << i << " = " << r << endl;
     }
 
-
-
-
 }
