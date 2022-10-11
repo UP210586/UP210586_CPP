@@ -1,6 +1,5 @@
 /* Unidad 2.
    Autor: Gabriel Hernández Rivera
-   Fecha: 27/09/2022
    Descripción: Escribir un programa que pregunte la renta anual
    y muestre por pantalla el impuesto que le corresponde para la declaración
    de la renta en un determinado país.
