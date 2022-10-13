@@ -1,11 +1,11 @@
 /* Unidad 2.
    Autor: Gabriel Hernández Rivera
    Descripción: Realice un programa que realice la conversión de binario a decimal, solo para números
-enteros mayores a 0. El resultado puede ser mostrado mediante una variable entera o en unconjunto de caracteres.*/
+enteros mayores a 0. El resultado puede ser mostrado mediante una variable entera o en un conjunto de caracteres.*/
 #include <iostream>
 using namespace std;
 #include <math.h>
-int main(int argc, char const *argv[])
+int main()
 {
     string bin;
     int tam, sum=0;

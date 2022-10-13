@@ -5,15 +5,15 @@ using namespace std;
 
 int main()
 {
-    int s, n;
-    s=0;
+    int f, n;
+    f=0;
     n=1;
-    while (n<=10)
+    while (n>=10)
     {
-        s=s+n;
+        f=f*n;
         n=n+1;
     }
-    cout<<"La sumatoria es "<<s<<endl;
+    cout<<"La factorial es "<<f<<endl;
 
     
     
