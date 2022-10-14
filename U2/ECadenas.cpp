@@ -12,23 +12,22 @@ int main(int argc, char const *argv[])
         /* code */
         cout << cadena[i] << " ";
     }
-    cout<<endl;
+    cout << endl;
     i = 0;
     while (texto[i] != '\0')
     {
-        texto[i]=tolower(texto[i]);
-        cout << texto[i] <<" ";
+        texto[i] = tolower(texto[i]);
+        cout << texto[i] << " ";
         i++;
     }
-    for (int i = 0; i < 30; i++)
+    for (int i = 0; i < 20; i++)
     {
-        cout << texto[i] <<" ";
+        cout << texto[i] << " ";
     }
     if (isalpha(texto[0]))
     {
         /* code */
     }
-    
 
     cout << "...Hecho" << endl;
     return 0;
