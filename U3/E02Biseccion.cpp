@@ -15,7 +15,7 @@ int main()
     double xm;
 
     double Es = .00001;         // Error estandar o error absoluto
-    double Er = abs(x2 - x1); // Error relativo
+    double Er = abs(x2 - x1);   // Error relativo
 
     int i = 1;
 

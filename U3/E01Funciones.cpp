@@ -57,8 +57,7 @@ int main(int argc, char const *argv[])
     int x = doble(5);
     x = sumatoria(n);
     cout << "La sumatoria de " << n << " es : " << x << endl;
-    */
-
+    
     int x;
     cout << "Dame el valor de x para la función y=x2-8x+15" << endl;
     cin >> x;
@@ -67,17 +66,17 @@ int main(int argc, char const *argv[])
     cout << "El valor de y es de: " << r << endl;
     return 0;
     
-    /*
+    
     double x = 1.05151652;
     double r;
     r = ec2(x);
     cout << "El valor de y es de: " << r << endl;
     printf("%12.10f \n",r);
     return 0;
-    
-    string res = camello("Upa");
-    cout << res << endl;
-    printf("%s", camello("Upa"));
-    return 0;
     */
+   
+    string res = camello("uPA");
+    cout << res << endl;
+    return 0;
+    
 }

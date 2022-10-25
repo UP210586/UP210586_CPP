@@ -16,7 +16,7 @@ int main(int argc, char const *argv[])
     i = 0;
     while (texto[i] != '\0')
     {
-        texto[i] = tolower(texto[i]);
+        texto[i] = toupper(texto[i]);
         cout << texto[i] << " ";
         i++;
     }
