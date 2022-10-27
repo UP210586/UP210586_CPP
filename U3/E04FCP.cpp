@@ -4,6 +4,7 @@ using namespace std;
 long int factorial(int n);
 long int permutacion(int n, int r);
 long int combinaciones(int n, int r);
+long int euler(int n);
 
 int main()
 {
@@ -47,4 +48,11 @@ long int combinaciones(int n, int r)
     long int co;
     co = factorial(n) / ((factorial(n - r)) * factorial(r));
     return co;
+}
+long int euler(int n)
+{
+    
+    
+
+
 }
