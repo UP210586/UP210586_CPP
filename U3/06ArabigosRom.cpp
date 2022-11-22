@@ -7,13 +7,12 @@ using namespace std;
 
 int main()
 {
-	while(1)
-	{
-		int numero,unidades,decenas,centenas,millares;
-		
-		cout << "\n Ingresa un numero entre para convertirlo a romano: " << endl;
+		int numero;
+		cout << "\n Ingresa un numero entero para convertirlo a romano: " << endl;
 		cin >> numero;
-		
+	while(numero!=0)
+	{
+		int unidades,decenas,centenas,millares;
 		unidades = numero%10; numero /= 10;
 		decenas = numero%10; numero /= 10;
 		centenas = numero%10; numero /= 10;
@@ -65,6 +64,7 @@ int main()
 			case 9: cout << "IX"; break;
 		}
 		
+		cout<<endl;
 	}
 	return 0;
 }

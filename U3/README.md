@@ -22,7 +22,7 @@ ___
 
 ___    
 [Bisiesto](https://github.com/UP210586/UP210586_CPP/blob/master/U3/02Bisiesto.cpp)  
-![Bisiesto](U3/Imagenes/../../Imagenes/02Rendimiento.png) 
+![Bisiesto](U3/Imagenes/../../Imagenes/02Bisiesto.png) 
 
 <h2>03Coseno </h2>
 

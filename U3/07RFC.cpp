@@ -6,7 +6,8 @@
 using namespace std;
 int main()
 {
-    string nombre, apellidop, apellidom, año, mes, dia, rfc;
+    string nombre, apellidop, apellidom;
+    string ano, mes, dia, rfc;
     cout << "Introduce los datos solicitados a continuacion " << endl;
     cout << "Ingresa tu nombre: " << endl;
     cin >> nombre;
@@ -15,7 +16,7 @@ int main()
     cout << "Ingresa tu apellido materno: " << endl;
     cin >> apellidom;
     cout << "Ingresa año de nacimiento: " << endl;
-    cin >> año;
+    cin >> ano;
     cout << "Ingresa mes de nacimiento: " << endl;
     cin >> mes;
     cout << "Ingresa dia de nacimiento: " << endl;
@@ -23,7 +24,7 @@ int main()
     rfc = apellidop.substr(0, 2);
     rfc = rfc + apellidom.substr(0, 1);
     rfc = rfc + nombre.substr(0, 1);
-    rfc = rfc + año;
+    rfc = rfc + ano;
     rfc = rfc + mes;
     rfc = rfc + dia;
     cout << "El RFC es: " << rfc << endl;
