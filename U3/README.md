@@ -27,7 +27,7 @@ ___
 <h2>03Coseno </h2>
 
 ___    
-[Coseno](https://github.com/UP210586/UP210586_CPP/blob/master/U3/03SaladeJuegos.cpp)  
+[Coseno](https://github.com/UP210586/UP210586_CPP/blob/master/U3/03Coseno.cpp)  
 ![Coseno](U3/Imagenes/../../Imagenes/03Coseno.png)  
 
 <h2>04DesviacionStd </h2>
@@ -57,11 +57,11 @@ ___
 <h2>08Ascendente </h2>
 
 ___    
-[Ascendente](https://github.com/UP210586/UP210586_CPP/blob/master/U2/08Ascendente.cpp)  
+[Ascendente](https://github.com/UP210586/UP210586_CPP/blob/master/U3/08Ascendente.cpp)  
 ![Ascendente](U3/Imagenes/../../Imagenes/08Ascendente.png)  
 
 <h2>09Recursiva </h2>
 
 ___    
-[Recursiva](https://github.com/UP210586/UP210586_CPP/blob/master/U2/09Recursiva.cpp)  
+[Recursiva](https://github.com/UP210586/UP210586_CPP/blob/master/U3/09Recursiva.cpp)  
 ![Recursiva](U3/Imagenes/../../Imagenes/09Recursiva.png)
