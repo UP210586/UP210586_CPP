@@ -27,6 +27,19 @@ ISC03A
 <li>07BinDec</li> 
 </e>
 
+ ## U3  
+<e1>
+<li>01Biseccion</li>
+<li>02Bisiesto</li> 
+<li>03Coseno</li>
+<li>04DesviacionStd</li>
+<li>05Moneda</li> 
+<li>06ArabigosRom</li> 
+<li>07RFC</li>
+<li>08Ascendente</li>
+<li>09Recursiva</li>
+</e>
+
 ![YeGraduation](Imágenes/YeGraduation.jpg "Graduation")
 <div align="center">
 <img alt="Checo Perez" src='Imágenes/Checo.jpg'
