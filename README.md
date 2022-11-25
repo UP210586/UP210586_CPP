@@ -41,5 +41,5 @@ ISC03A
 </e>
 
 ![YeGraduation](Imágenes/YeGraduation.jpg "Graduation")
-<div align="center">
-<img alt="Checo Perez" src='Imágenes/Checo.jpg'
+
+![Checo](Imágenes/Checo.jpg "Checo")
